@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    height: 50vh;
+    width: 100vw;
+}
+
+.head {
+    font-family: breeserif;
+    color: #183b56;
+    text-align: center;
+    font-weight: bold;
+}
+
+.para {
+    font-family: breeserif;
+    color: #616e7c;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+}
+
+.imgadv {
+    height: 120px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.bg-containeradv {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+}
+
+.detail-cardadv {
+    background-color: white;
+    font-family: Bree Serif;
+    color: #5752ab;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+    text-align: left;
+    width: 100vw;
+    height: 20vhvh;
+}
+
+.button1adv {
+    color: #5752ab;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 10px;
+    width: 120px;
+    font-family: Roboto;
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    border-width: 0px;
+}
+
+.button2adv {
+    color: #ffffff;
+    background-color: #5752ab;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 10px;
+    width: 120px;
+    font-family: Roboto;
+    border-width: 0px;
+    border-color: #d7dfe9;
+}
+
+.paragraphadv {
+    color: #5752ab;
+    text-decoration-color: #323f4b;
+    font-size: 18px;
+}
+
+.bg-containerpap {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 120vh;
+    font-family: Roboto;
+}
+
+.headingpap {
+    color: #323f4b;
+    background-color: white;
+    font-family: Roboto;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.paragraphpap {
+    color: #7b8794;
+    font-family: Roboto;
+    padding: 5px;
+
+}
+
+.buttonpap {
+    border-radius: 10px;
+    height: 35px;
+    padding: 5px;
+    font-size: 10px;
+    width: 110px;
+    color: #ffffff;
+    background-color: #323f4b;
+}
+
+.heading1pap {
+    padding: 2px;
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.heading2pap {
+    width: 300px;
+}
+
+.bg-containerfood {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.card1food {
+    background-color: #f6c56e;
+    font-family: Roboto;
+    height: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: left;
+    padding: 20px;
+    font-weight: bold;
+
+
+}
+
+.buttonfood {
+    background-color: white;
+    color: #323f4b;
+    font-family: Roboto;
+    border-radius: 10px;
+    height: 32px;
+    width: 100px;
+    padding: 2px;
+    font-size: 13px;
+    border-color: white;
+    border-width: 0px;
+    text-align: center;
+
+
+
+}
+
+.headingfood {
+    font-family: Bree Serif;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
